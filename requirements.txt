@@ -4,6 +4,5 @@ openai
 azure-ai-search
 azure-identity
 dotenv
-python-dotenv
 azure-search-documents
 azure-core

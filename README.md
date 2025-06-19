@@ -19,7 +19,6 @@
 * **주요 라이브러리**:
     * `requests`: GitHub API 통신
     * `streamlit`: 사용자 인터페이스(UI) 구축
-    * `python-dotenv`: 환경 변수 관리
     * `concurrent.futures`: 병렬 처리를 통한 성능 향상
 
 ## ✨ 주요 기능
