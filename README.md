@@ -1,6 +1,9 @@
 
 # 🤖 GitHub PR AI 리뷰어 v1.0
 
+# Test App URL
+https://sienna-pr-review.azurewebsites.net
+
 ## 📝 개요
 이 프로젝트는 개발자가 GitHub Pull Request(PR)의 URL을 입력하면, Azure OpenAI Service와 Azure AI Search를 활용하여 코드 변경사항을 분석하고 자동으로 리뷰를 생성해주는 MVP(Minimum Viable Product) 웹 애플리케이션입니다.
 단순히 코드의 문제점을 지적하는 것을 넘어, 각 파일의 프로그래밍 언어를 자동으로 감지하고 해당 언어의 코딩 컨벤션을 기반으로 한 분석을 제공합니다. 최종적으로는 PR 전체에 대한 요약 보고서를 생성하여 개발자가 코드의 품질을 개선하고, 리뷰어가 리뷰에 드는 시간을 단축할 수 있도록 돕습니다.
